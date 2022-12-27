@@ -34,5 +34,5 @@
 
 ## 간편하게 GitHub에 파일 올리는 방법
 - 깃헙 페이지에서 원하는 폴더 들어간 다음 -> Add file -> Upload files
-- -> 박스 공안데 드래그앤드롭 -> Commmit changes 눌러주면 등록 완료!
+- -> 박스안에 올릴 파일 드래그앤드롭 -> Commmit changes 눌러주면 등록 완료!
 
