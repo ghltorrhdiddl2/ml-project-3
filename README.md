@@ -9,7 +9,7 @@
 + - 그 프로젝트 폴더 안으로 들어가서 마우스 오른쪽 클릭 -> Git Bash Here 클릭 -> 창 뜨면 Remote Repository 등록
 <br>
 - Remote Repository 등록
-  + $ git remote add origin https://<user name>:<본인 토큰>@<https:// 제외 깃헙 주소>
+  + $ git remote add origin https://<user name>:<본인 토큰>@<나머지 깃헙 주소>
 <br>
 - 잘 되었는지 확인
   + $ git remote -v  ==> fetch랑 push 나오면 잘 된것
