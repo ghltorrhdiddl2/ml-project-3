@@ -5,8 +5,8 @@
 # git 주요 명령어
 ## Lacal Repository 생성 후 Remote Repository 등록
 - Lacal Repository 생성
-+ - 각자 PC에서 프로젝트 폴더 만든다(폴더명은 ml-project-3로 통일)
-+ - 그 프로젝트 폴더 안으로 들어가서 마우스 오른쪽 클릭 -> Git Bash Here 클릭 -> 창 뜨면 Remote Repository 등록
+  + 각자 PC에서 프로젝트 폴더 만든다(폴더명은 ml-project-3로 통일)
+  + 그 프로젝트 폴더 안으로 들어가서 마우스 오른쪽 클릭 -> Git Bash Here 클릭 -> 창 뜨면 Remote Repository 등록
 
 <br>
 
